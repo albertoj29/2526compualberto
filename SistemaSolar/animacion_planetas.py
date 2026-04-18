@@ -78,7 +78,7 @@ def crear_animacion(indices_planetas, titulo, xlim, ylim, nombre_archivo):
     ]
     ax.legend(handles=handles, loc="upper right")
 
-    # 🔥 Reducimos frames (MUY IMPORTANTE)
+    #  Reducimos frames (MUY IMPORTANTE)
     step = 5
     frames_reducidos = list(range(0, len(frames_data), step))
 
@@ -124,7 +124,7 @@ def crear_animacion(indices_planetas, titulo, xlim, ylim, nombre_archivo):
 # ANIMACIONES
 # ============================
 
-# 🌍 INTERIOR
+#  INTERIOR
 crear_animacion(
     indices_planetas=[0,1,2,3,4],
     titulo="Sistema Solar Interior",
@@ -133,7 +133,7 @@ crear_animacion(
     nombre_archivo="interior.mp4"
 )
 
-# 🪐 EXTERIOR
+#  EXTERIOR
 crear_animacion(
     indices_planetas=[0,5,6,7,8,9],
     titulo="Sistema Solar Exterior",
