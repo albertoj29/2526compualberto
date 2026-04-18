@@ -117,7 +117,7 @@ def crear_animacion(indices_planetas, titulo, xlim, ylim, nombre_archivo):
     else:
         plt.show()
 
-    plt.close(fig)  # 🔥 CLAVE para que la segunda animación funcione
+    plt.close(fig)  # CLAVE para que la segunda animación funcione
 
 
 # ============================
