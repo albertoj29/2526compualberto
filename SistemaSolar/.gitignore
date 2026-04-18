@@ -1,0 +1,15 @@
+# Ejecutable
+solar
+
+# Datos generados
+data/*.dat
+
+# Imágenes
+*.png
+
+# Videos
+*.mp4
+
+# Python
+__pycache__/
+*.pyc
