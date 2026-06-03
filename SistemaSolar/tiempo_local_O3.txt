@@ -1,0 +1,5 @@
+Iniciando benchmark de CPU (Sistema Solar - 10000000 pasos)...
+----------------------------------------
+Benchmark finalizado con exito.
+Tiempo de ejecucion: 2.67886 segundos.
+----------------------------------------
