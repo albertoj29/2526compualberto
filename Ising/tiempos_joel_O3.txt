@@ -1,0 +1,7 @@
+========================================================
+ BENCHMARK ISING 2D (DINAMICA DE GLAUBER) a T = 2.27
+========================================================
+N = 16	|	Tiempo : 0.0376947 segundos
+N = 32	|	Tiempo : 0.150653 segundos
+N = 64	|	Tiempo : 0.601354 segundos
+N = 128	|	Tiempo : 2.41155 segundos
